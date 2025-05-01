@@ -8,7 +8,7 @@ namespace Entrega_2_Francisco_Osenda
 {
     internal class Arrays1Ej3
     {
-        public static void Ejecutar()// Ingresar 10 números y mostrar cuántos son positivos, negativos y ceros.
+        public static void Ejecutar()//Ingresar 10 números y mostrar cuántos son positivos, negativos y ceros.
         {
             int[] arreglo = new int[10];
             int positivos = 0;

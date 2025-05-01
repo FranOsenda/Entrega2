@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Arrays1Ej2.Ejecutar();
+            ListasEj3.Ejecutar();
         }
-      
     }
 }

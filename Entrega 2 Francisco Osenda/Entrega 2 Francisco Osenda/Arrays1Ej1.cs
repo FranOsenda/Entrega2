@@ -36,9 +36,10 @@ namespace Entrega_2_Francisco_Osenda
             Console.WriteLine("Números generados:");
             foreach (int i in numeros)
             {
-                Console.WriteLine(i);
+                Console.Write(i +" ");
             }
-            Console.WriteLine($"El numero máximos es: {max}");
+            Console.WriteLine(" ");
+            Console.WriteLine($"El número máximos es: {max}");
             Console.WriteLine($"El número mínimo es: {min}");
 
         }

@@ -31,8 +31,10 @@ namespace Entrega_2_Francisco_Osenda
                         nombres_A[contador2] = nombres[j];
                         contador2++;
                     }
+                    break;
                 }
             }
+            Console.WriteLine("Los nombres ingresados que comienzan con A son: ");
             foreach (string i in nombres_A)
                 Console.Write(i+" ");
         }

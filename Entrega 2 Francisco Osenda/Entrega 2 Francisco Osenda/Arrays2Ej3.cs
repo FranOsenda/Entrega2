@@ -8,38 +8,36 @@ namespace Entrega_2_Francisco_Osenda
 {
     internal class Arrays2Ej3
     {
-        public static void Ejecutar() //Pedir el nombre y 3 notas de 5 estudiantes. Mostrar el promedio de cada uno
+        public static void Ejecutar() // Crear una matriz de 3x3. Reemplazar todos los elementos negativos por cero.
         {
-            List<string> nombres = new List<string>();
-            List<List<double>> notas = new List<List<double>>();
-            string nombre;
-            double nota;
-            for (int i = 0; i < 5; i++)
+            double[,] matriz = new double[3, 3];
+            double num;
+            for (int columna = 0; columna < 3; columna++)
             {
-                Console.WriteLine("Ingrese el nombre del estudiante");
-                nombre = Console.ReadLine();
-                nombres.Add(nombre);
-                List<double> notaAlumno = new List<double>();
-
-                for (int j = 0; j < 3; j++)
+                Console.WriteLine($"Ingrese el valor de la fila N°{columna + 1}");
+                for (int fila = 0; fila < 3; fila++)
                 {
-                    Console.WriteLine($"Ingrese la nota N°{j + 1} de {nombres[i]}");
-                    nota = double.Parse(Console.ReadLine());
-                    notaAlumno.Add(nota);
+                    Console.WriteLine($"Ingrese el valor la columna N°{columna + 1} de la fila {fila + 1}");
+                    num = double.Parse(Console.ReadLine());
+                    matriz[fila, columna] = num;
                 }
-                notas.Add(notaAlumno);
             }
-
-            for (int i = 0; i < 5; i++)
+            for (int columna = 0; columna < 3; columna++)
             {
-                Console.WriteLine($"El promedio de {nombres[i]} es:");
-                double promedio = 0;
-                foreach (int j in notas[i])
+                for (int fila = 0; fila < 3; fila++)
                 {
-                    promedio += j;
+                    if (matriz[fila, columna] < 0)
+                        matriz[fila, columna] = 0;
                 }
-                promedio = promedio / notas[i].Count;
-                Console.WriteLine(promedio);
+            }
+            Console.WriteLine("La matriz con los valores negativos remplazados por 0 es: ");
+            for (int columna = 0; columna < 3; columna++)
+            {                
+                for (int fila = 0; fila < 3; fila++)
+                {
+                    Console.Write($"  {matriz[fila, columna]}" );
+                }
+                Console.WriteLine(" ");
             }
         }
     }

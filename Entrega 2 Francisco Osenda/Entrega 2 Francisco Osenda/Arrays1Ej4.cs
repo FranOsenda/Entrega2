@@ -4,7 +4,6 @@ using System.Linq;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Entrega_2_Francisco_Osenda
 {
@@ -16,7 +15,7 @@ namespace Entrega_2_Francisco_Osenda
             Console.Write("Los dias de la semana laborales son los: ");
             for (int i = 0; i < semana.Length; i++)
             {
-                if (i > 0 && i < 6)
+                if (semana[i] != "Domingo" && semana[i] != "Sabado") // tambien puede ser: if (i != 1 && i != 6) 
                     Console.Write(semana[i] + " ");
             }
         }

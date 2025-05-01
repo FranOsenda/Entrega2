@@ -8,7 +8,7 @@ namespace Entrega_2_Francisco_Osenda
 {
     internal class Arrays2Ej1
     {
-        public static void Ejecutar()//Crear una matriz de 3x3. Solicitar al usuario que ingrese todos los elementos y luego mostrar la suma de cada fila.
+        public static void Ejecutar()// Crear una matriz de 3x3. Solicitar al usuario que ingrese todos los elementos y luego mostrar la suma de cada fila.
         {
             double[,] matriz = new double[3, 3];
             double num;

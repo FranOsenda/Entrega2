@@ -55,7 +55,7 @@ namespace Entrega_2_Francisco_Osenda
                 filaMax = sumaFila3;
                 Fila = "Fila 3"; 
             }
-            Console.WriteLine($"La fila con mayor suma es {Fila} y el total es: {filaMax}");
+            Console.WriteLine($"La fila con mayor suma es la {Fila} y el total es: {filaMax}");
         }
     };
 }
