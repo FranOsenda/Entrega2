@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.AssemblyInfo.cs
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.sourcelink.json
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\bin\Debug\net8.0\Entrega 2 Francisco Osenda.exe
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\bin\Debug\net8.0\Entrega 2 Francisco Osenda.deps.json
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\bin\Debug\net8.0\Entrega 2 Francisco Osenda.runtimeconfig.json
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\bin\Debug\net8.0\Entrega 2 Francisco Osenda.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\bin\Debug\net8.0\Entrega 2 Francisco Osenda.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\refint\Entrega 2 Francisco Osenda.dll
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.pdb
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\Entrega 2 Francisco Osenda.genruntimeconfig.cache
+C:\Users\franc\Desktop\ICES\Programacion 1\Entrega2\Entrega 2 Francisco Osenda\Entrega 2 Francisco Osenda\obj\Debug\net8.0\ref\Entrega 2 Francisco Osenda.dll
