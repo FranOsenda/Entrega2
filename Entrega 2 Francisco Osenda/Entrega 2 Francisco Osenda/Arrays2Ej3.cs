@@ -35,9 +35,9 @@ namespace Entrega_2_Francisco_Osenda
             {                
                 for (int fila = 0; fila < 3; fila++)
                 {
-                    Console.Write($"  {matriz[fila, columna]}" );
+                    Console.Write($"  {matriz[fila, columna]}");
                 }
-                Console.WriteLine(" ");
+                Console.WriteLine("");
             }
         }
     }

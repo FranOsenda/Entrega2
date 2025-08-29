@@ -23,23 +23,19 @@ namespace Entrega_2_Francisco_Osenda
             {
                 for (int k = (j + 1); k < numeros.Length; k++)
                 {
-                    if (numeros[j] < min)
-                    {
-                        min = numeros[j];
-                    }
-                    else if (numeros[j] > max)
-                    {
+                    if (numeros[j] < min)                  
+                        min = numeros[j];                    
+                    else if (numeros[j] > max)                   
                         max = numeros[j];
-                    }
                 }
             }
-            Console.WriteLine("Números generados:");
+            Console.WriteLine("Los números generados son:");
             foreach (int i in numeros)
             {
                 Console.Write(i +" ");
             }
             Console.WriteLine(" ");
-            Console.WriteLine($"El número máximos es: {max}");
+            Console.WriteLine($"El número máximo es: {max}");
             Console.WriteLine($"El número mínimo es: {min}");
 
         }

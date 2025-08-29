@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entrega 2 Francisco Osenda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd5d53160d75300172bca030f0eb2a26a493e2ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd38e3b932209ef86674a54153dbe3968929387e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entrega 2 Francisco Osenda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entrega 2 Francisco Osenda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace Entrega_2_Francisco_Osenda
 {
     internal class Arrays1Ej4
